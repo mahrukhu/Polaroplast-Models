@@ -32,15 +32,15 @@ Regarding the polaroplast models deposited in folders 1 and 2, we recommend open
 Note: These models will appear grey by default and the color of each model can be adjusted using the command line, accessible in Favorites -> Command Line. On the command line enter the code: color #XXXXXX #ID, where XXXXXX = hex color code and ID = the ID of the model as indicated in the model panel (Favorites -> Model Panel). 
 
 The color codes used in the manuscript are as follows: 
-Exospore: e3170a
-Endospore: ffd12a 
-Plasma Membrane: 00aa00 
-Anchoring Disc: ff8800 
-Polaroplast: aa55ff
-Nucleus: ffaaff 
-Polar Tube (M-layer): 8b6fff
-Polar Tube (OF-Layer): 13ccff
-Polar Tube (IF - Layer): faf28b
-Polar Tube (Core): ffbb7d
-Vacuole : c19a6b 
+Exospore: e3170a,
+Endospore: ffd12a, 
+Plasma Membrane: 00aa00, 
+Anchoring Disc: ff8800, 
+Polaroplast: aa55ff,
+Nucleus: ffaaff, 
+Polar Tube (M-layer): 8b6fff,
+Polar Tube (OF-Layer): 13ccff,
+Polar Tube (IF - Layer): faf28b,
+Polar Tube (Core): ffbb7d,
+Vacuole : c19a6b. 
 
