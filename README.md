@@ -23,6 +23,7 @@ There are three main directories:
                 Polaroplast_model5,
                 Polaroplast_model6,
                 Other_Spore_Organelles.
+                
 3- PT_model
 
 Each model is deposited in a '.stl' file format which can be opened in chimera.
