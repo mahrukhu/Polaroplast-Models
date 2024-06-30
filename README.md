@@ -6,26 +6,26 @@ These models serve as supplementary information for the manuscript entited: "Cry
 
 There are three main directories:
 
-1- Polaroplast_Long
-    subfolders: Polaroplast_model1
-                Polaroplast_model2
-                Polaroplast_model3
-                Polaroplast_model4
-                Polaroplast_model5
-                Polaroplast_model6
-                Other_Spore_Organelles
+1- Polaroplast_Long,
+    subfolders: Polaroplast_model1,
+                Polaroplast_model2,
+                Polaroplast_model3,
+                Polaroplast_model4,
+                Polaroplast_model5,
+                Polaroplast_model6,
+                Other_Spore_Organelles.
                 
-2- Polaroplast_Short
-    subfolders: Polaroplast_model1
-                Polaroplast_model2
-                Polaroplast_model3
-                Polaroplast_model4
-                Polaroplast_model5
-                Polaroplast_model6
-                Other_Spore_Organelles
+2- Polaroplast_Short,
+    subfolders: Polaroplast_model1,
+                Polaroplast_model2,
+                Polaroplast_model3,
+                Polaroplast_model4,
+                Polaroplast_model5,
+                Polaroplast_model6,
+                Other_Spore_Organelles.
 3- PT_model
 
-Each model is deposited in a .stl file format which can be opened in chimera.
+Each model is deposited in a '.stl' file format which can be opened in chimera.
 
 Regarding the polaroplast models deposited in folders 1 and 2, we recommend opening the model of interest with the spore organelles deposited in the Other_Spore_Organelles folder to see an overall picture of spore organization. 
 
