@@ -1,4 +1,22 @@
 # Polaroplast-Models
+
+Author List: 
+Cryo-ET reveals the in situ architecture of the polar tube invasion apparatus from microsporidian parasites
+
+
+Mahrukh Usmani(1,2*), Nicolas Coudray(1,3*), Margot Riggi(4), Rishwanth Raghu(5), Harshita Ramchandani(1), Daija Bobe(6), Mykhailo Kopylov(6), Ellen D. Zhong(5), Janet H. Iwasa(4), Damian C. Ekiert(1#), Gira Bhabha(1#) 
+
+1 Department of Biology, Johns Hopkins University, Baltimore, MD, USA
+2 Vilcek Institute of Graduate Biomedical Sciences, NYU School of Medicine, New York, NY, USA 
+3 Applied Bioinformatics Laboratories, Department of Medicine, NYU School of Medicine, New York, NY, USA
+4 Department of Biochemistry, University of Utah, Salt Lake City, UT, USA
+5 Department of Computer Science, Princeton University, Princeton, NJ, USA
+6 Simons Electron Microscopy Center, New York Structural Biology Center, New York, NY, USA
+
+
+* equal contribution
+#corresponding author. Email: gira.bhabha@be-labs.org (G.B.); damian.ekiert@be-labs.org (D.C.E.)
+
 3-D models describing possible ways the polaroplast is folded and organized inside Encephalitozoon intestinalis spores.
 
 These models serve as supplementary information for the manuscript entited: "Cryo-ET reveals the architecture of dormant microsporidian spores" (publication info:xxxx). These models can be sliced and compared to tomograms by using chimera’s Side View, accessible in Tools -> Viewing Controls -> Side View
