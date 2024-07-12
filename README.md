@@ -1,9 +1,9 @@
 # Polaroplast-Models
 
-Author List: 
+Associated Scientific Manuscript:
 Cryo-ET reveals the in situ architecture of the polar tube invasion apparatus from microsporidian parasites
 
-
+Authors:
 Mahrukh Usmani(1,2*), Nicolas Coudray(1,3*), Margot Riggi(4), Rishwanth Raghu(5), Harshita Ramchandani(1), Daija Bobe(6), Mykhailo Kopylov(6), Ellen D. Zhong(5), Janet H. Iwasa(4), Damian C. Ekiert(1#), Gira Bhabha(1#) 
 
 1 Department of Biology, Johns Hopkins University, Baltimore, MD, USA
@@ -16,6 +16,8 @@ Mahrukh Usmani(1,2*), Nicolas Coudray(1,3*), Margot Riggi(4), Rishwanth Raghu(5)
 
 * equal contribution
 #corresponding author. Email: gira.bhabha@be-labs.org (G.B.); damian.ekiert@be-labs.org (D.C.E.)
+
+These models were created by Margot Riggi and Janet Iwasa.
 
 3-D models describing possible ways the polaroplast is folded and organized inside Encephalitozoon intestinalis spores.
 
